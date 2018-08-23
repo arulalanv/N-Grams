@@ -1,0 +1,3 @@
+hadoop jar  org.alan.unigram.Main  /unigram/input/  /unigram/output62/
+
+

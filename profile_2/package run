@@ -1,0 +1,3 @@
+hadoop jar '/home/hduser/Desktop/uni.jar' org.alan.unigram.WordCount  /unigram/input/  /unigram/output61/
+
+
